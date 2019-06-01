@@ -1,4 +1,5 @@
 2048AI
+[![Build Status](https://travis-ci.com/FaceSeace/2048AI.svg?branch=master)](https://travis-ci.com/FaceSeace/2048AI)
 ===========================
 AI.py
 ---------------------------
