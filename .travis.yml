@@ -3,7 +3,5 @@ python:
     - "3.7"
 install:
     - pip install numpy
-    - pip install copy
-    - pip install time
 script:
     - python AI.py
